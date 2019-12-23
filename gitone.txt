@@ -1,0 +1,6 @@
+安装git
+
+创建一个git仓库：git init
+
+将文件添加到git仓库：git add 文件名
+
